@@ -18,3 +18,4 @@ chroma
 langchain_chroma
 langchain_ollama
 streamlit
+langchain_tavily
